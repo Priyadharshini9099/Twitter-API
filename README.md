@@ -1,1 +1,2 @@
-# Twitter-API
+# nodejs-workshop
+NodeJs Workshop
